@@ -1,0 +1,3 @@
+[submodule "Session_3-Multi-node-training"]
+	path = 3-Training
+	url = https://github.com/alan-turing-institute/practical-mpi
