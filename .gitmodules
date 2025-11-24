@@ -4,3 +4,7 @@
 [submodule "3-Training"]
 	path = 3-Training
 	url = https://github.com/alan-turing-institute/practical-mpi.git
+[submodule "4-Profiling"]
+	path = 4-Profiling
+	url = https://github.com/lannelin/pytorch-profiling.git
+	branch = 25_11
